@@ -36,7 +36,8 @@ python setup.py build
 **Copy folder build to own folder on disk and run file generator.exe**
 
 
-[PL]
+# [PL]
+
 Prosty generator haseł z możliwością zapisywania wygenerowanych list haseł do formatów .txt, .csv, .xlsx.
 
 Program umożliwia wygenerowanie hasła już od min. Hasła składające się z 8 znaków i powyżej 20 znaków są bardzo silne. Wygenerowane hasła zawierają co najmniej: 2 cyfry, małe i duże litery oraz min. 2 znaki specjalne.
