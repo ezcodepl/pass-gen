@@ -21,9 +21,9 @@ C compiler                  (required only if installing from sources)
 
 
 
-**In setup.py select file name generator_v*.py  (select version app)**
+**In setup.py select file name generator_v.py  (select version app)**
                              
-**Make buil.exe file from generator_v*.py**
+**Make buil.exe file from generator_v.py**
                              
 python setup.py build
 
