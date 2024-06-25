@@ -1,4 +1,4 @@
-# Pass Gen
+# Password Generator
 
 A simple password generator with the ability to save generated password lists to .txt, .csv, .xlsx formats. 
 
