@@ -1,4 +1,5 @@
 **Pass Gen**
+
 A simple password generator with the ability to save generated password lists to .txt, .csv, .xlsx formats. 
 
 The program allows you to generate a password from min. 8 characters, above 20 characters passwords are very strong. The generated passwords contain at least: 2 digits, lowercase and uppercase letters and min. 2 special characters.
