@@ -33,4 +33,4 @@ C compiler                  (required only if installing from sources)
                              
 python setup.py build
 
-**Copy folder build on own folder on disk and run file generator.exe**
+**Copy folder build to own folder on disk and run file generator.exe**
